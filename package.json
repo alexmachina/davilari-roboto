@@ -1,0 +1,29 @@
+{
+  "name": "davilari-spiderman",
+  "version": "1.0.0",
+  "description": "\"# davilari-spiderman\"",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "iconv": "^2.2.1",
+    "mongoose": "^4.7.4",
+    "mysql": "^2.12.0",
+    "request": "^2.78.0",
+    "shortid": "^2.2.6",
+    "utf8": "^2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexxmde/davilari-spiderman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexxmde/davilari-spiderman/issues"
+  },
+  "homepage": "https://github.com/alexxmde/davilari-spiderman#readme"
+}
